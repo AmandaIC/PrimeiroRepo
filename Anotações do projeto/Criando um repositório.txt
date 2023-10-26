@@ -1,0 +1,40 @@
+Como criar um novo repositório :
+
+- No canto superior direito da página do GitHub, clique no ícone +e selecione "Novo repositório" (Novo repositório).
+
+- Preencha o nome do repositório, por exemplo, "Primeiro-repo-DIO".
+
+- Escolha o repositório público. 
+
+- Adicione uma descrição que explique o propósito do repositório, como "Projeto primeiro repo da DIO."
+
+- Marque a opção "Inicializar este repositório com um README" para criar um arquivo README.md inicial.
+
+- Configurar o README.md : O README é onde você pode documentar e explicar o que você está aprendendo e armazenando no repositório. 
+*Você pode usar a linguagem Markdown para formatar seu README (https://www.markdownguide.org/basic-syntax/)*
+
+- Criar Pastas e Arquivos : Para adicionar seus projetos e notas relacionadas ao curso, crie pastas e adicione arquivos conforme necessário. Por exemplo, você pode criar uma pasta para cada tópico do curso e adicionar arquivos, como código-fonte, anotações e recursos.
+
+- Commit e Push : Depois de adicionar ou alterações fazer em seus arquivos, você precisará realizar "commits" e "pushes" para enviar suas alterações para o repositório no GitHub. 
+
+*Um commit no Git representa uma versão específica de um projeto. Quando você faz um commit, você está registrando as mudanças que você fez em seus arquivos, junto com uma mensagem que descreve o que você fez. Essas mudanças são gravadas em um histórico.  Cada commit tem um identificador único, geralmente uma sequência alfanumérica chamada de "hash", que permite identificar e recuperar versões específicas do projeto no futuro. Commits são usados ​​para documentar o progresso do projeto e ajudar a acompanhar as mudanças ao longo do tempo.*
+
+*O push é uma ação de enviar os commits locais (que você fez no seu repositório local) para um repositório remoto, como o GitHub.
+Quando você faz um push, você está compartilhando as alterações feitas localmente com outras pessoas que têm acesso ao repositório remoto. Isso é especialmente útil quando você está colaborando em um projeto com outros desenvolvedores. Você faz comprometimentos locais e permite que outros membros da equipe vejam e integrem essas mudanças em seu próprio ambiente de trabalho.*
+
+*Simplificando, um commit é a criação de um ponto de controle ou versão no seu repositório local, enquanto o push é o ato de enviar esses commits para um repositório remoto, tornando as alterações disponíveis para outras pessoas que trabalham no mesmo projeto. Ambas são ações cruciais para manter um histórico de código organizado e colaborar efetivamente em projetos de desenvolvimento de software.*
+
+
+- Use os seguintes comandos no Git para fazer isso:
+
+git add .
+git commit -m "Adicionando anotações do módulo 1"
+git push origin master
+
+- Mantenha seu Repositório Atualizado : À medida que você avança no curso e aprende novos tópicos, continue adicionando e atualizando seu repositório no GitHub.
+
+
+
+
+
+
